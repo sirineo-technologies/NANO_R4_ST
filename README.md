@@ -4,6 +4,11 @@ Finalizando os testes em nossa **NANOR4ST**: A Plataforma de Hardware otimizada 
 
 Essa adaptação utiliza o microcontrolador **Renesas RA4M1** da Renesas Semiconductor (#RA4M1) (ARM Cortex-M4) para atender demandas específicas de desempenho, precisão e confiabilidade em nosso equipamento.
 
+<!-- CÓDIGO PARA CENTRALIZAR A IMAGEM -->
+<div align="center">
+  <img src="imagens/nanor4st1.png" alt="Placa NANOR4ST" width="500px">
+</div>
+
 ---
 
 ## 🔍 Por que o RA4M1 na NANOR4ST?
